@@ -1,0 +1,40 @@
+<> text
+
+#PodcastAdBloc
+
+0.0.0.0 ads.podtrac.com
+0.0.0.0 ads.simplecast.com
+0.0.0.0 ads.buzzsprout.com
+0.0.0.0 ads.spreaker.com
+0.0.0.0 ads.libsyn.com
+0.0.0.0 ads.anchor.fm
+0.0.0.0 ads.podcastindex.org
+0.0.0.0 ads.podbean.com
+0.0.0.0 ads.stitcher.com
+0.0.0.0 ads.audacy.com
+0.0.0.0 ads.captivate.fm
+0.0.0.0 ads.podomatic.com
+0.0.0.0 ads.podigee.com
+0.0.0.0 ads.podcloud.com
+0.0.0.0 ads.podcloud.io
+0.0.0.0 ads.podchaser.com
+0.0.0.0 ads.podcorn.com
+0.0.0.0 ads.podrover.com
+0.0.0.0 ads.podtrac.io
+0.0.0.0 ads.podverse.com
+0.0.0.0 ads.podbean.net
+0.0.0.0 ads.podtrac.net
+0.0.0.0 ads.podtrac.org
+0.0.0.0 ads.podtrac.co
+0.0.0.0 ads.podtrac.biz
+0.0.0.0 ads.podtrac.info
+0.0.0.0 ads.podtrac.dev
+0.0.0.0 ads.podtrac.app
+0.0.0.0 ads.podtrac.tech
+0.0.0.0 ads.podtrac.ai
+0.0.0.0 ads.podtrac.cloud
+0.0.0.0 ads.podtrac.media
+0.0.0.0 ads.podtrac.tv
+0.0.0.0 ads.podtrac.fm
+
+
